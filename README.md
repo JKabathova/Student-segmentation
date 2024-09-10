@@ -3,11 +3,13 @@
 This repository contains a set of Jupyter notebooks and dataset focused on both classification and clustering tasks using various machine learning algorithms. The key algorithms implemented include Decision Trees (DT), K-Nearest Neighbors (KNN), Support Vector Machine (SVM), and Naive Bayes (NB) for classification, and k-means for clustering.
 
 Contents
+
 Classification Algorithms:
 - DT.ipynb: Jupyter notebook implementing Decision Trees for classification tasks.
 - KNN.ipynb: Jupyter notebook implementing the K-Nearest Neighbors algorithm for classification.
 - SVC.ipynb: Jupyter notebook implementing the Support Vector Classifier (SVM).
 - NB.ipynb: Jupyter notebook implementing Naive Bayes for classification.
+  
 Clustering:
 - Clusters.ipynb: This notebook provides the clustering analysis performed using the k-means algorithm.
 - cluster_0.csv, cluster_1.csv, cluster_2.csv, cluster_3.csv: These CSV files represent the different clusters identified in the dataset.
